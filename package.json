@@ -4,7 +4,8 @@
   "description": "Edit me later",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +17,9 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/jimmorey/lorem.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/jimmorey/lorem/issues"
+  },
+  "homepage": "https://github.com/jimmorey/lorem#readme"
 }
