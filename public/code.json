@@ -1,4 +1,5 @@
-{"core":{"1":"Informational request","2":"Successful request","3":"Redirect","4":"Client error","5":"Server error"},
+{"cite":"https://www.exai.com/blog/http-status-codes-cheat-sheet",
+"core":{"1":"Informational request","2":"Successful request","3":"Redirect","4":"Client error","5":"Server error"},
 "100":{"short":"Informal"},
 "200":{"short":"OK","long":"Successful request."},
 "201":{"short":"Created","long":"The server acknowledged the created resource."},
